@@ -1,6 +1,6 @@
 # nuxt-project
 
-> My beautiful Nuxt.js project
+> Nuxt.js with express
 
 ## Build Setup
 
